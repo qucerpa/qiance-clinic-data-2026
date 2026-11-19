@@ -1,9 +1,9 @@
 {
   "protocol": "LPHBUS02",
   "projectId": "f0866924-a78b-4f66-a783-f20d71004b76",
-  "releaseId": "00a81870e40e0cc615612cc9e35a8a65de4e2bca087225f5495353e2f507f816",
-  "sequence": 7,
-  "issuedAt": "2026-11-19T04:13:07.224Z",
+  "releaseId": "bdfb7629157524ca68fdf438a788480e358f4f69db6b29b6704ea412dc6a0508",
+  "sequence": 8,
+  "issuedAt": "2026-11-19T04:14:57.691Z",
   "keyId": "a2e2d64fdd26469b78ef79695dcf3497",
   "shardRule": {
     "algorithm": "sha256",
@@ -143,15 +143,15 @@
     {
       "shardId": "4f",
       "scope": "path",
-      "encryptedPath": "_lph/shards/14cd340abcaa2dae0da2ee6c3fbf86bc8153de4184586a73d8462f6028e11d5e",
-      "encryptedSize": 523,
-      "encryptedSha256": "14cd340abcaa2dae0da2ee6c3fbf86bc8153de4184586a73d8462f6028e11d5e",
-      "originalSize": 453,
-      "sourceSha256": "4d5765e3437a509fa69b1cbbcb08aeb7e2eaa36f5ce1d02e015d8be2221b0fdb",
+      "encryptedPath": "_lph/shards/c4ff00973a8c8b6e5600771520527a17b98b6e6ec349e45d6e5dd0eeaa14fa4a",
+      "encryptedSize": 524,
+      "encryptedSha256": "c4ff00973a8c8b6e5600771520527a17b98b6e6ec349e45d6e5dd0eeaa14fa4a",
+      "originalSize": 454,
+      "sourceSha256": "1a4acad06355ccaaef5be04461affe2d9768d539a72ec9929c91497dc7dc4fc4",
       "decodedSize": 767,
-      "decodedSha256": "375c5f38b7eda90407e85cb8829841353f76d06637537efc8f232af356caa7c7",
+      "decodedSha256": "70ee404ceaab3dd995e5b8371def27f854bb7ad23d54030bbb0d725d4a7736fc",
       "contentEncoding": "gzip",
-      "keyId": "c771d3df6c2c13412e7452a2ad47e710",
+      "keyId": "142d5fe994b4d5b9cd54ee2864f32643",
       "fileCount": 1,
       "idCount": 0,
       "packCount": 1
@@ -351,15 +351,15 @@
     {
       "shardId": "d2",
       "scope": "path",
-      "encryptedPath": "_lph/shards/87ec0a8ff3bac095129d0dcbb2d304302d4f44e17ab98c4997d43830d36d7800",
+      "encryptedPath": "_lph/shards/6aa41fbcbf337c4b53e388514ac6d8302f02d76d983b9ac9cf91f439bd11da4d",
       "encryptedSize": 510,
-      "encryptedSha256": "87ec0a8ff3bac095129d0dcbb2d304302d4f44e17ab98c4997d43830d36d7800",
+      "encryptedSha256": "6aa41fbcbf337c4b53e388514ac6d8302f02d76d983b9ac9cf91f439bd11da4d",
       "originalSize": 440,
-      "sourceSha256": "4af61c174f48d75a543f8bfaff5e980860c0cc35739b487dc00a3e0a22299b9c",
+      "sourceSha256": "f5788e44282f083855e20f0ce6d753b0c8e2b79054f3ea643ba126ae07d64ff1",
       "decodedSize": 747,
-      "decodedSha256": "1569941b4bdf3f58c53ff25fd488c2711ebabb024e581a28c8728616b9bd1038",
+      "decodedSha256": "2cddda4dbe4b416fd6ed20229a0416861d461213e1be753d8368b0b778e0905a",
       "contentEncoding": "gzip",
-      "keyId": "785b9994b3aee2475ebd0f7ef8c86372",
+      "keyId": "806dce615d652847818eafd22de57971",
       "fileCount": 1,
       "idCount": 0,
       "packCount": 1
@@ -496,9 +496,9 @@
   "fileCount": 30,
   "idCount": 0,
   "packCount": 30,
-  "totalStagedBytes": 225079,
-  "totalDecodedBytes": 1296985,
-  "totalEncryptedBytes": 249644,
+  "totalStagedBytes": 225027,
+  "totalDecodedBytes": 1296849,
+  "totalEncryptedBytes": 249593,
   "signing": {
     "algorithm": "Ed25519",
     "publicKey": "MCowBQYDK2VwAyEAHgYEhnKdYlx3fOGpSTcjae4D5d5t7QIYeggPLiTGiHE",
@@ -509,11 +509,11 @@
       "appId": "5acfa235-0746-48cf-80bb-aa60f09b9d44",
       "credentialVersion": 1,
       "algorithm": "AES-256-GCM",
-      "nonce": "UehZCaLRLMfkSSui",
-      "wrappedKey": "fBEArvWcgSjP-wcv9Um-4HMkCE1VgBPt1Y3hO7iNGLri899HO9bW72i8KFlB-rPv",
-      "aad": "LPHBUS02|f0866924-a78b-4f66-a783-f20d71004b76|5acfa235-0746-48cf-80bb-aa60f09b9d44|00a81870e40e0cc615612cc9e35a8a65de4e2bca087225f5495353e2f507f816|7|a2e2d64fdd26469b78ef79695dcf3497"
+      "nonce": "-HAq1EHtyIg-m0Xp",
+      "wrappedKey": "mfYQpMUfXo4FdDh4REhWw3tRP9b5HpQK6gSfBNUpPpRBDnxUDTG4lql4rcRyzovm",
+      "aad": "LPHBUS02|f0866924-a78b-4f66-a783-f20d71004b76|5acfa235-0746-48cf-80bb-aa60f09b9d44|bdfb7629157524ca68fdf438a788480e358f4f69db6b29b6704ea412dc6a0508|8|a2e2d64fdd26469b78ef79695dcf3497"
     }
   ],
-  "status": "complete",
-  "signature": "NZnkKCO899fz9Fw43fsft8NoupOr8tWE2IsGbcQ+6mJWJ3kqT2BRYuhsRs+l8yb8Vn21Co9kO6EzPryCuciUCw=="
+  "status": "candidate",
+  "signature": "RfCXf8jYqnFdWXfaZiwWbRpEAhTJ5Krm1PMvgAkDEdLeRCuQOgVtD0Dkw0oYy31XMIFGmk+WghOHlLpt1+7/DQ=="
 }
