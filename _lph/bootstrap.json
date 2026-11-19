@@ -1,9 +1,9 @@
 {
   "protocol": "LPHBUS02",
   "projectId": "f0866924-a78b-4f66-a783-f20d71004b76",
-  "releaseId": "11d0c322e7387d73b4cd9f7905594677e945f488c15cf0504b7d2d7152d10a42",
-  "sequence": 4,
-  "issuedAt": "2026-11-19T01:08:49.048Z",
+  "releaseId": "68738ef8a1cc82e8a279c158554fd141c6a956f1fb730d485a224320e5d9cc4e",
+  "sequence": 5,
+  "issuedAt": "2026-11-19T01:11:07.912Z",
   "keyId": "a2e2d64fdd26469b78ef79695dcf3497",
   "shardRule": {
     "algorithm": "sha256",
@@ -351,15 +351,15 @@
     {
       "shardId": "d2",
       "scope": "path",
-      "encryptedPath": "_lph/shards/6aa41fbcbf337c4b53e388514ac6d8302f02d76d983b9ac9cf91f439bd11da4d",
-      "encryptedSize": 510,
-      "encryptedSha256": "6aa41fbcbf337c4b53e388514ac6d8302f02d76d983b9ac9cf91f439bd11da4d",
-      "originalSize": 440,
-      "sourceSha256": "f5788e44282f083855e20f0ce6d753b0c8e2b79054f3ea643ba126ae07d64ff1",
+      "encryptedPath": "_lph/shards/8baa64ba197a68393e8642605b46179cacfbb0b5dcc82b597543bad7bff2dde8",
+      "encryptedSize": 508,
+      "encryptedSha256": "8baa64ba197a68393e8642605b46179cacfbb0b5dcc82b597543bad7bff2dde8",
+      "originalSize": 438,
+      "sourceSha256": "f0f9e422ed6555ce45e49bbbc7653744ae76cd8633f45bf8d8edd3d813c6ec18",
       "decodedSize": 747,
-      "decodedSha256": "2cddda4dbe4b416fd6ed20229a0416861d461213e1be753d8368b0b778e0905a",
+      "decodedSha256": "b962ab4f0b48bf066fcca129d92afb0805e14aca0e82e383d16fd0731b786979",
       "contentEncoding": "gzip",
-      "keyId": "806dce615d652847818eafd22de57971",
+      "keyId": "0e133f69cd44ce4c487bf7709d40158c",
       "fileCount": 1,
       "idCount": 0,
       "packCount": 1
@@ -496,9 +496,9 @@
   "fileCount": 30,
   "idCount": 0,
   "packCount": 30,
-  "totalStagedBytes": 225027,
-  "totalDecodedBytes": 1296849,
-  "totalEncryptedBytes": 249593,
+  "totalStagedBytes": 225078,
+  "totalDecodedBytes": 1296883,
+  "totalEncryptedBytes": 249642,
   "signing": {
     "algorithm": "Ed25519",
     "publicKey": "MCowBQYDK2VwAyEAHgYEhnKdYlx3fOGpSTcjae4D5d5t7QIYeggPLiTGiHE",
@@ -509,11 +509,11 @@
       "appId": "5acfa235-0746-48cf-80bb-aa60f09b9d44",
       "credentialVersion": 1,
       "algorithm": "AES-256-GCM",
-      "nonce": "B6fi8d8aWVSd4nrE",
-      "wrappedKey": "7rKUNgKBYFMMtN465ZZWTZs7T1vxMwLez2p5tTHlooioBNw-iClZsdhxIcMMioYe",
-      "aad": "LPHBUS02|f0866924-a78b-4f66-a783-f20d71004b76|5acfa235-0746-48cf-80bb-aa60f09b9d44|11d0c322e7387d73b4cd9f7905594677e945f488c15cf0504b7d2d7152d10a42|4|a2e2d64fdd26469b78ef79695dcf3497"
+      "nonce": "iHHa5gZ1G4I_f8RZ",
+      "wrappedKey": "qPAsVeFThZCwNttG-DofT6YQ8ykrX3lMx5qvTSR0qDC8YPO8FGOipYj9mO8MRW8A",
+      "aad": "LPHBUS02|f0866924-a78b-4f66-a783-f20d71004b76|5acfa235-0746-48cf-80bb-aa60f09b9d44|68738ef8a1cc82e8a279c158554fd141c6a956f1fb730d485a224320e5d9cc4e|5|a2e2d64fdd26469b78ef79695dcf3497"
     }
   ],
-  "status": "complete",
-  "signature": "FK10BwhSd67RO/lNhNQ4fLB2DUlxjYIbPUyeINMblv1ILAdex9A9R+luSSexoKvdP1YIVt5QJSlDIThahVSFBw=="
+  "status": "candidate",
+  "signature": "9UD4RqW4AeuehqktBQwHuOnCkOzNf6tSZzyxyqwdeVUt+dqXmHdG2cNDRoEkQR8fLqm3K0NIBJjUaYMtcn7xBQ=="
 }
