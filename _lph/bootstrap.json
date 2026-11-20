@@ -1,9 +1,9 @@
 {
   "protocol": "LPHBUS02",
   "projectId": "f0866924-a78b-4f66-a783-f20d71004b76",
-  "releaseId": "e4a3d34f97e268de70a2318a087f37c1e8b3320cc8a16502f270ecc353f16348",
-  "sequence": 16,
-  "issuedAt": "2026-11-19T12:17:09.848Z",
+  "releaseId": "ad69bc8268edcbe0f7450ca8df0e901aa9a7183f0a8fe435a06b7ea4d41f585a",
+  "sequence": 17,
+  "issuedAt": "2026-11-20T03:24:16.801Z",
   "keyId": "a2e2d64fdd26469b78ef79695dcf3497",
   "shardRule": {
     "algorithm": "sha256",
@@ -287,15 +287,15 @@
     {
       "shardId": "98",
       "scope": "path",
-      "encryptedPath": "_lph/shards/17da7bcacec78d29629c3bb45dcbe62f4adffed6e683cceebfb3790aa52f60ee",
-      "encryptedSize": 523,
-      "encryptedSha256": "17da7bcacec78d29629c3bb45dcbe62f4adffed6e683cceebfb3790aa52f60ee",
-      "originalSize": 453,
-      "sourceSha256": "4ef67c4d06f50ac1f14f2d2ef67e08159786d3accb63c823fdb2b6ffab3223f6",
+      "encryptedPath": "_lph/shards/5199213f74a6937497d36b43feae2335f26fdcf9e3b35b22d2e7aab84963b6ca",
+      "encryptedSize": 524,
+      "encryptedSha256": "5199213f74a6937497d36b43feae2335f26fdcf9e3b35b22d2e7aab84963b6ca",
+      "originalSize": 454,
+      "sourceSha256": "eb3f377a13e36b0a318c72dee9e43dfe4e4432f43e5e2bc24e0779cb938998e6",
       "decodedSize": 761,
-      "decodedSha256": "9881d0cad80c85e532b861548ee8cdc5b89d97e67386f064174be38036c4ecf4",
+      "decodedSha256": "eb91e15357f7c0bf4a05b3295e3abc18e65af2442cc04f7d79d234d852ec1ca3",
       "contentEncoding": "gzip",
-      "keyId": "16a28a88f5ba92d9b605b4fc3d636bc6",
+      "keyId": "450c91f9c7399d83b6805efa5d21e78a",
       "fileCount": 1,
       "idCount": 0,
       "packCount": 1
@@ -351,15 +351,15 @@
     {
       "shardId": "d2",
       "scope": "path",
-      "encryptedPath": "_lph/shards/6aa41fbcbf337c4b53e388514ac6d8302f02d76d983b9ac9cf91f439bd11da4d",
-      "encryptedSize": 510,
-      "encryptedSha256": "6aa41fbcbf337c4b53e388514ac6d8302f02d76d983b9ac9cf91f439bd11da4d",
-      "originalSize": 440,
-      "sourceSha256": "f5788e44282f083855e20f0ce6d753b0c8e2b79054f3ea643ba126ae07d64ff1",
+      "encryptedPath": "_lph/shards/33ebb003deab833f95afa6bd702101e93a25ee2037794dd4565cc54eb06327a6",
+      "encryptedSize": 507,
+      "encryptedSha256": "33ebb003deab833f95afa6bd702101e93a25ee2037794dd4565cc54eb06327a6",
+      "originalSize": 437,
+      "sourceSha256": "5dea41479b116e0cccded4c7cc7179a6803ed3a69ebe23b08276b03474fdfb56",
       "decodedSize": 747,
-      "decodedSha256": "2cddda4dbe4b416fd6ed20229a0416861d461213e1be753d8368b0b778e0905a",
+      "decodedSha256": "86e3ec3073eae855465dd999959cbe2c8ce8c1e7886b7216729ee0d71d17e9fc",
       "contentEncoding": "gzip",
-      "keyId": "806dce615d652847818eafd22de57971",
+      "keyId": "3d89fbdb90a5b7feacb53439bda2a07a",
       "fileCount": 1,
       "idCount": 0,
       "packCount": 1
@@ -496,9 +496,9 @@
   "fileCount": 30,
   "idCount": 0,
   "packCount": 30,
-  "totalStagedBytes": 225027,
-  "totalDecodedBytes": 1296849,
-  "totalEncryptedBytes": 249593,
+  "totalStagedBytes": 198682,
+  "totalDecodedBytes": 1164576,
+  "totalEncryptedBytes": 223246,
   "signing": {
     "algorithm": "Ed25519",
     "publicKey": "MCowBQYDK2VwAyEAHgYEhnKdYlx3fOGpSTcjae4D5d5t7QIYeggPLiTGiHE",
@@ -509,11 +509,11 @@
       "appId": "5acfa235-0746-48cf-80bb-aa60f09b9d44",
       "credentialVersion": 1,
       "algorithm": "AES-256-GCM",
-      "nonce": "lLBg0J-rQdCctSJy",
-      "wrappedKey": "nt2QuAb5QqKPue0EsxY5uz5vV5C-TySORCvMjNlPv6BUoCZk7Ci3viWqqN71aNGf",
-      "aad": "LPHBUS02|f0866924-a78b-4f66-a783-f20d71004b76|5acfa235-0746-48cf-80bb-aa60f09b9d44|e4a3d34f97e268de70a2318a087f37c1e8b3320cc8a16502f270ecc353f16348|16|a2e2d64fdd26469b78ef79695dcf3497"
+      "nonce": "2QBN94GMfdDUyj2v",
+      "wrappedKey": "g0pfWZyV7wXUB9BUse7RUQkXtw1HGMsphNsxr2q4NMqJ9FRSVSjl5ziIytiUC4h7",
+      "aad": "LPHBUS02|f0866924-a78b-4f66-a783-f20d71004b76|5acfa235-0746-48cf-80bb-aa60f09b9d44|ad69bc8268edcbe0f7450ca8df0e901aa9a7183f0a8fe435a06b7ea4d41f585a|17|a2e2d64fdd26469b78ef79695dcf3497"
     }
   ],
-  "status": "complete",
-  "signature": "fs6EsgQZSm48N1qUT9xW4dWl4k8W3k3ozYPR6Fd/C38xHIbRurWJGtFnZuE2ph1X4KpTPBt9PpSVj24gKVj1CA=="
+  "status": "candidate",
+  "signature": "2raw5NombMN/AXKVKNU4Nyyc9yk2V7UXHBjd2xpSTaJp2wS+wLAeb3Yjz4JuZwg/v1P9WqZWtanJhPcBASorDA=="
 }
